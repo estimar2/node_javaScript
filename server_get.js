@@ -1,6 +1,6 @@
 /** @format */
 
-// 이전파일 : myClass.ㅓㄴ==js
+// 이전파일 : myClass.js
 
 var http = require("http");
 var url = require("url");
